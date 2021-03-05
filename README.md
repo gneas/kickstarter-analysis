@@ -12,3 +12,5 @@ Subcategory Statistics
 
 Outcomes Based on Launch Date
 
+![](images/Outcomes%20Based%20on%20Launch%20Date%20Chart.png)
+
