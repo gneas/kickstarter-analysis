@@ -27,7 +27,7 @@ One potential challenge within this process could have resulted when the theater
 One conclusion is that the months of May, June, and July have been the most successful months in which to conduct a theater kickstarter campaign. A second conclusion is that when the successful data is taken in conjuction with the failed data, we can see that July isn't as successful as May or June are.
 - What can you conclude about the Outcomes based on Goals?
   
-We can see from the analysis that as campaign goals for theater plays rose, their success rate was adversely impacted. The data shows that the most effective successful goals were ones that were under $5,000 with success rates of 73%-76%.
+We can see from the analysis that, as campaign goals for theater plays rose their success rate was adversely impacted. The data shows that the most effective successful goals were ones that were under $5,000 with success rates of 73%-76%.
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
