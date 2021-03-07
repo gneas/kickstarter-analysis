@@ -10,10 +10,13 @@ The purpose of this analysis is to examine how different theater campaigns perfo
 
 ## Analysis and Challenges
 
-This analysis was begun by utilizing a dataset comprised of various different types of crowdfunded campaigns spanning the years 2010-2017. Being that the focus of this analysis centered around theater campaigns, it was necessary to filter the overall dataset accordingly. After converting the Unix timestamps to dates I was able to establish the year for each record. I then pivoted the data with it filtered on the theater campaigns broken out by their outcomes (successful, failed, canceled).
+This analysis was begun by utilizing a dataset comprised of various different types of crowdfunded campaigns spanning the years 2010-2017. Being that the focus of this analysis centered around theater campaigns, it was necessary to filter the overall dataset accordingly. After converting the Unix timestamps to dates I was able to establish the year for each record. I then pivoted the data with it filtered on the theater campaigns broken out by their outcomes (successful, failed, canceled). Next, I created a chart (1st below) from the pivot in order to easily visualize the theater campaign outcomes in relation to their launch dates. 
+
+Then, I proceeded to focus on the theater plays outcomes based on their goals. This required counting all of play outcomes based on their goal, but organizing them into manageable ranges. Once that step was completed I then created a chart designed to represent visually the all of the play outcomes based on their goals (2nd below).
+
+One potential challenge within this process could have resulted when the theater outcomes were pivoted. It was important to be able to organize everything all based on the month. This was important because when charting against it, the monthly orgazined data would be reflected in a way that would allow for the determination of whether or not there was seasonality. Another potential challenge was organizing the data into manageable ranges. This required a COUNTIFS function that needed these goal ranges specified. This step was important because it was necessary to visualize the outcomes based on goal amounts in a clear and concise manner.
 
 ### Analysis of Outcomes Based on Launch Date
-I created a chart (below) from the pivot in order to easily visualize the theater campaign outcomes in relation to their launch dates.
 ![](/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch")
 ### Analysis of Outcomes Based on Goals
 
