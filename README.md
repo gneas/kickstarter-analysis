@@ -32,4 +32,5 @@ We can see from the analysis that, as campaign goals for theater plays rose thei
   
 One can see from the ranges that there are some campaigns with very high goals. These very high goals are affecting the distribution of the dataset. Additionally, it seems likely that some failures are largely a function of those high goals.
 - What are some other possible tables and/or graphs that we could create?
-
+  
+Some other possible ideas would be to examine the dataset for those outliers (extreme high goals) mentioned above. These very high goals may not be representative of the real story underlying the data. Additional analysis could be accomplished by looking at the distribution by identifying the mean, median, 1st and 3rd quartiles, and Interquartile Range. We can also utilize a Box and Whisker plot to identify outliers and see precisely where are Mean and Median are within the dataset.
