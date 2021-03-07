@@ -1,16 +1,24 @@
-# An Analysis of Kickstarter Compaigns.
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
+## Overview of Project
 
-Category Statistics
+### Purpose
 
-![](images/Parent%20Category%20Outcomes%20Chart.png)
+## Analysis and Challenges
 
-Subcategory Statistics
+### Analysis of Outcomes Based on Launch Date
 
-![](images/Subcategory%20Statistics%20Chart.png)
+### Analysis of Outcomes Based on Goals
 
-Outcomes Based on Launch Date
+### Challenges and Difficulties Encountered
 
-![](images/Outcomes%20Based%20on%20Launch%20Date%20Chart.png)
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
 
