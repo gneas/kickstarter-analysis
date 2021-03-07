@@ -23,6 +23,7 @@ One potential challenge within this process could have resulted when the theater
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
+  
 One conclusion is that the months of May, June, and July have been the most successful months in which to conduct a theater kickstarter campaign. A second conclusion is that when the successful data is taken in conjuction with the failed data, we can see that July isn't as successful as May or June are.
 - What can you conclude about the Outcomes based on Goals?
 
