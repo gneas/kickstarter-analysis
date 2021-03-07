@@ -17,7 +17,7 @@ Then, I proceeded to focus on the theater plays outcomes based on their goals. T
 One potential challenge within this process could have resulted when the theater outcomes were pivoted. It was important to be able to organize everything all based on the month. This was important because when charting against it, the monthly orgazined data would be reflected in a way that would allow for the determination of whether or not there was seasonality. Another potential challenge was organizing the data into manageable ranges. This required a COUNTIFS function that needed these goal ranges specified. This step was important because it was necessary to visualize the outcomes based on goal amounts in a clear and concise manner.
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch")
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
