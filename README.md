@@ -14,13 +14,13 @@ This analysis was begun by utilizing a dataset comprised of various different ty
 
 Then, I proceeded to focus on the theater plays outcomes based on their goals. This required counting all of play outcomes based on their goal, but organizing them into manageable ranges. Once that step was completed I then created a chart designed to represent visually the all of the play outcomes based on their goals (2nd below).
 
-One potential challenge within this process could have resulted when the theater outcomes were pivoted. It was important to be able to organize everything all based on the month. This was important because when charting against it, the monthly orgazined data would be reflected in a way that would allow for the determination of whether or not there was seasonality. Another potential challenge was organizing the data into manageable ranges. This required a COUNTIFS function that needed these goal ranges specified. This step was important because it was necessary to visualize the outcomes based on goal amounts in a clear and concise manner.
-
 ### Analysis of Outcomes Based on Launch Date
 ![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch")
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+
+One potential challenge within this process could have resulted when the theater outcomes were pivoted. It was important to be able to organize everything all based on the month. This was important because when charting against it, the monthly orgazined data would be reflected in a way that would allow for the determination of whether or not there was seasonality. Another potential challenge was organizing the data into manageable ranges. This required a COUNTIFS function that needed these goal ranges specified. This step was important because it was necessary to visualize the outcomes based on goal amounts in a clear and concise manner.
 
 ## Results
 
