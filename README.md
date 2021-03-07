@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The overall Kickstarter project was to help someone named Louise start a crowdfunding campaign to fund her play Fever.
+The overall Kickstarter project was to help someone named Louise start a crowdfunding campaign to fund her play *Fever*.
 
 ### Purpose
 
