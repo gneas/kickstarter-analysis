@@ -6,6 +6,8 @@ The overall Kickstarter project was to help Louise start a crowdfunding campaign
 
 ### Purpose
 
+The purpose of this analysis is to examine how different theater campaigns performed in relation to their launch dates and funding goals.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
