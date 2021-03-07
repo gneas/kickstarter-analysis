@@ -29,6 +29,7 @@ One conclusion is that the months of May, June, and July have been the most succ
   
 We can see from the analysis that, as campaign goals for theater plays rose their success rate was adversely impacted. The data shows that the most effective successful goals were ones that were under $5,000 with success rates of 73%-76%.
 - What are some limitations of this dataset?
-
+  
+One can see from the ranges that there are some campaigns with very high goals. These very high goals are affecting the distribution of the dataset. Additionally, it seems likely that some failures are largely a function of those high goals.
 - What are some other possible tables and/or graphs that we could create?
 
