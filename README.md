@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-The overall Kickstarter project was to help Louise start a crowdfunding campaign to fund her play Fever.
+The overall Kickstarter project was to help someone named Louise start a crowdfunding campaign to fund her play Fever.
 
 ### Purpose
 
-The purpose of this analysis is to examine how different theater campaigns performed in relation to their launch dates and funding goals.
+The purpose of this analysis was to examine how different theater campaigns performed in relation to their launch dates and funding goals.
 
 ## Analysis and Challenges
 
